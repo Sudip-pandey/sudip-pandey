@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technical-vandar-885&label=Profile%20views&color=0e75b6&style=flat" alt="technical-vandar-885" /> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on <b>My Portfolio</b>
 
 - 🌱 I’m currently learning **Javascript, Python**
 
@@ -59,3 +59,4 @@
 
 
 <h2>PS: Portfolio coming soon....😉</h2>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
