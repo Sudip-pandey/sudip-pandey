@@ -41,9 +41,7 @@
 <br>
 
 ## ✍Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" alt="Dev Meme😂">
+<img src="https://randommeme-five.vercel.app/" alt="Dev Meme😂">
 
-## Snake Eating my Live Contributions
-![Snake animation](https://github.com/sudip-pandey/sudip-pandey/blob/output/github-contribution-grid-snake.svg)
-<br><br><br>
+
 <h2>PS: Portfolio coming soon....😉</h2>
