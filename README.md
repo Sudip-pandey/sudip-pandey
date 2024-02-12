@@ -32,12 +32,16 @@
 <p align="center"><img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php,mysql,html,css,wordpress,bootstrap,figma,photoshop,illustrator">
 </p>
 <br>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudip-pandey&show_icons=true&locale=en&layout=compact" alt="Pandey Sudip" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudip-pandey&theme=radical&show_icons=true" alt="Pandey Sudip" /></p>
+<br><h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ 
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudip-pandey\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-pandey&" alt="Pandey Sudip" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sudip-pandey&theme=midnight-purple)](https://git.io/streak-stats)
+
+</div>
+
+<br><br>
 <br>
 <h3 align="left">Activity:</h3>
 
