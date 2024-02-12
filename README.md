@@ -39,6 +39,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-pandey&" alt="Pandey Sudip" /></p>
 <br>
+<h3 align="left">Activity:</h3>
+
+![Sudip-Pandey's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudip-pandey&custom_title=Sudip-Pandey's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
 
 ## ✍Random Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
