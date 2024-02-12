@@ -22,6 +22,8 @@
 <a href="https://dev.to/technicalvandar885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="technicalvandar885" height="30" width="40" /></a>
 <a href="https://fb.com/technicalvandar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="technicalvandar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/technicalvandar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technicalvandar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pandey_sp_885/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)" alt="technicalvandar885" height="30" width="40" /></a>
+  
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3><br>
