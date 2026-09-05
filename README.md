@@ -3,7 +3,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 
-<h1 align="center">नमस्ते, ✋ म Pandey Sudip</h1>
+<h1 align="center">नमस्ते, 🙏 म Pandey Sudip</h1>
 <h3 align="center"><a href="https://github.com/sudip-pandey"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&width=435&lines=A+Passionate+Learner+from+Nepal;Programmer+%7C+Developer+%7C+Youtuber+%7C+Designer+%7C+FreelancerDesigner+%7C+" alt="Typing SVG" /></a></h3>
 
 
